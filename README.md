@@ -8,7 +8,7 @@ GoFile : https://gofile.io/d/CN3ovi
 AnonFile : https://anonfiles.com/FaS378K6o8/Nighty_SubBot_Mail_zip
 
 ### 🌈 How does it looks ?
-You can view how it looks, I uploaded you a photo.
+You can view how it looks, I uploaded you a photo (go down).
 
 # How does it works ?
 First if you don't have Python I set him in the folder so don't worry, you have to run Python Setup and Setup, Setup it's for download required modules and after that read informations (they are just in french).
