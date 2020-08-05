@@ -1,7 +1,10 @@
 ### Download project :
 Mega : https://mega.nz/file/P9hXiYga#v8zsK9-zVIy0SmjjJNTMukCRW5AcKVL9Fa1SxTj2RN0
+
 Mediafire : https://www.mediafire.com/file/zq5fx18tgzmtm2t/file
+
 GoFile : https://gofile.io/d/CN3ovi
+
 AnonFile : https://anonfiles.com/FaS378K6o8/Nighty_SubBot_Mail_zip
 
 # How does it works ?
